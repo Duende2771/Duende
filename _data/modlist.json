@@ -37,7 +37,7 @@
   },
   {
     "author": "Resurrectionem",
-    "name": "Cane Bellum, The War Dog Xenotype and Faction",
+    "name": "Cane Aternitigno, The war dogs of battlefield Xenotypes and Faction",
     "steamId": null,
     "version": null
   },
@@ -56,12 +56,6 @@
   {
     "author": "Comigo Games",
     "name": "Comigo's Garden Beds",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AllyJamy",
-    "name": "Custom map: The Earth",
     "steamId": null,
     "version": null
   },
@@ -102,8 +96,14 @@
     "version": null
   },
   {
+    "author": "WalterHawkwood",
+    "name": "Floors Are (Almost) Worthless",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Farxmai2",
-    "name": "Gene Banks Exapnded",
+    "name": "Gene Banks Expanded",
     "steamId": null,
     "version": null
   },
@@ -126,7 +126,7 @@
     "version": null
   },
   {
-    "author": "Smuffle",
+    "author": "Smuffle and OMGSplat",
     "name": "Harvest Organs Post Mortem",
     "steamId": null,
     "version": null
@@ -246,7 +246,7 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Trunken",
+    "author": "Oskar Potocki, Trunken and Sarg",
     "name": "Vanilla Apparel Expanded",
     "steamId": null,
     "version": null
@@ -398,6 +398,12 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
     "steamId": null,
     "version": null
   }
