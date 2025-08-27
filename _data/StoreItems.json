@@ -5162,7 +5162,7 @@
 	},
 	{
 		"abr": "boomratmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Boomrat"
 	},
@@ -6698,7 +6698,7 @@
 	},
 	{
 		"abr": "boomtick",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "VFEI2_Boomtick"
 	},
@@ -7244,7 +7244,7 @@
 	},
 	{
 		"abr": "goldencube",
-		"price": 2000,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GoldenCube"
 	},
@@ -8618,7 +8618,7 @@
 	},
 	{
 		"abr": "bangbus",
-		"price": 2692,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_BangBus"
 	},
@@ -8714,7 +8714,7 @@
 	},
 	{
 		"abr": "bulldog",
-		"price": 7942,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Bulldog"
 	},
@@ -8732,7 +8732,7 @@
 	},
 	{
 		"abr": "bunsen",
-		"price": 4800,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Bunsen"
 	},
@@ -8780,7 +8780,7 @@
 	},
 	{
 		"abr": "charley",
-		"price": 2475,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Charley"
 	},
@@ -8870,13 +8870,13 @@
 	},
 	{
 		"abr": "dinghy",
-		"price": 883,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Dinghy"
 	},
 	{
 		"abr": "dirtbike",
-		"price": 1458,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Dirtbike"
 	},
@@ -8984,7 +8984,7 @@
 	},
 	{
 		"abr": "frog",
-		"price": 2558,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Frog"
 	},
@@ -9104,7 +9104,7 @@
 	},
 	{
 		"abr": "highwayman",
-		"price": 3733,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Highwayman"
 	},
@@ -9398,13 +9398,13 @@
 	},
 	{
 		"abr": "mosquito",
-		"price": 6750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Mosquito"
 	},
 	{
 		"abr": "mule",
-		"price": 3417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Mule"
 	},
@@ -9602,7 +9602,7 @@
 	},
 	{
 		"abr": "prowler",
-		"price": 2483,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Prowler"
 	},
@@ -9638,13 +9638,13 @@
 	},
 	{
 		"abr": "roadkill",
-		"price": 4800,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Roadkill"
 	},
 	{
 		"abr": "roadrunner",
-		"price": 4550,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Roadrunner"
 	},
@@ -9758,7 +9758,7 @@
 	},
 	{
 		"abr": "scytheman",
-		"price": 3375,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Scytheman"
 	},
@@ -9866,13 +9866,13 @@
 	},
 	{
 		"abr": "smuggler",
-		"price": 6300,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Smuggler"
 	},
 	{
 		"abr": "snatcher",
-		"price": 4250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Snatcher"
 	},
@@ -9938,7 +9938,7 @@
 	},
 	{
 		"abr": "tango",
-		"price": 7750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Tango"
 	},
@@ -9968,7 +9968,7 @@
 	},
 	{
 		"abr": "toad",
-		"price": 4000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Toad"
 	},
@@ -9986,13 +9986,13 @@
 	},
 	{
 		"abr": "traveller",
-		"price": 2750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Traveller"
 	},
 	{
 		"abr": "trawler",
-		"price": 3167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Trawler"
 	},
@@ -10142,7 +10142,7 @@
 	},
 	{
 		"abr": "wagon",
-		"price": 4000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Wagon"
 	},
@@ -10160,7 +10160,7 @@
 	},
 	{
 		"abr": "warbird",
-		"price": 4917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Warbird"
 	},
@@ -10184,7 +10184,7 @@
 	},
 	{
 		"abr": "wisent",
-		"price": 7100,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Wisent"
 	},
@@ -10442,7 +10442,7 @@
 	},
 	{
 		"abr": "badger",
-		"price": 8683,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Badger"
 	},
@@ -10544,7 +10544,7 @@
 	},
 	{
 		"abr": "bigrig",
-		"price": 9500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_BigRig"
 	},
@@ -10556,31 +10556,31 @@
 	},
 	{
 		"abr": "boomabear",
-		"price": 625,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomabear"
 	},
 	{
 		"abr": "boomachicken",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomachicken"
 	},
 	{
 		"abr": "boomachickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_BoomachickenEggFertilized"
 	},
 	{
 		"abr": "boomachickenegg(unfert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "GR_BoomachickenEggUnfertilized"
 	},
 	{
 		"abr": "boomalopeparagon",
-		"price": 967,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonBoomalope"
 	},
@@ -10592,43 +10592,43 @@
 	},
 	{
 		"abr": "boombeetle",
-		"price": 750,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boombeetle"
 	},
 	{
 		"abr": "boomcat",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomcat"
 	},
 	{
 		"abr": "boomffalo",
-		"price": 383,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomffalo"
 	},
 	{
 		"abr": "boomhorse",
-		"price": 1250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomhorse"
 	},
 	{
 		"abr": "boom-pustuletrap",
-		"price": 8,
+		"price": -10,
 		"category": "Security",
 		"defname": "GR_TrapIED_Boom"
 	},
 	{
 		"abr": "boomsnake",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomsnake"
 	},
 	{
 		"abr": "boomsquirrel",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomsquirrel"
 	},
@@ -10640,7 +10640,7 @@
 	},
 	{
 		"abr": "burya",
-		"price": 11667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Burya"
 	},
@@ -10706,7 +10706,7 @@
 	},
 	{
 		"abr": "cherokee",
-		"price": 21042,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Cherokee"
 	},
@@ -11096,7 +11096,7 @@
 	},
 	{
 		"abr": "goliath",
-		"price": 4000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Goliath"
 	},
@@ -11120,7 +11120,7 @@
 	},
 	{
 		"abr": "hermano",
-		"price": 6450,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Hermano"
 	},
@@ -11384,7 +11384,7 @@
 	},
 	{
 		"abr": "lightning",
-		"price": 6333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Lightning"
 	},
@@ -11396,7 +11396,7 @@
 	},
 	{
 		"abr": "louie",
-		"price": 12050,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Louie"
 	},
@@ -11456,7 +11456,7 @@
 	},
 	{
 		"abr": "marshal",
-		"price": 11058,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Marshal"
 	},
@@ -11678,7 +11678,7 @@
 	},
 	{
 		"abr": "nomad",
-		"price": 5917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Nomad"
 	},
@@ -11702,7 +11702,7 @@
 	},
 	{
 		"abr": "paladin",
-		"price": 8250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Paladin"
 	},
@@ -11798,7 +11798,7 @@
 	},
 	{
 		"abr": "springbok",
-		"price": 6925,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Springbok"
 	},
@@ -11954,7 +11954,7 @@
 	},
 	{
 		"abr": "udar",
-		"price": 10450,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VVE_Udar"
 	},
@@ -12053,7 +12053,223 @@
 		"price": 750,
 		"category": "Animals",
 		"defname": "GR_Wolfsnake"
+	},
+	{
+		"abr": "wolverine",
+		"price": 250,
+		"category": "Animals",
+		"defname": "Wolverine"
+	},
+	{
+		"abr": "wolverinemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wolverine"
+	},
+	{
+		"abr": "anchovy",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawAnchovy"
+	},
+	{
+		"abr": "angelfish",
+		"price": 13,
+		"category": "Fish",
+		"defname": "VCEF_RawAngelfish"
+	},
+	{
+		"abr": "anglerfish",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawAnglerfish"
+	},
+	{
+		"abr": "avenger",
+		"price": 25833,
+		"category": "Animal",
+		"defname": "JAHV_Avenger"
+	},
+	{
+		"abr": "clownfish",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawClownfish"
+	},
+	{
+		"abr": "conquistador",
+		"price": 9383,
+		"category": "Animal",
+		"defname": "JAHV_Conquistador"
+	},
+	{
+		"abr": "eel",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawEel"
+	},
+	{
+		"abr": "goldfish",
+		"price": 58,
+		"category": "Fish",
+		"defname": "VCEF_RawGoldfish"
+	},
+	{
+		"abr": "haddock",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawHaddock"
+	},
+	{
+		"abr": "halibut",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawHalibut"
+	},
+	{
+		"abr": "herring",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawHerring"
+	},
+	{
+		"abr": "koi",
+		"price": 4,
+		"category": "Fish",
+		"defname": "VCEF_RawKoi"
+	},
+	{
+		"abr": "lobster",
+		"price": 17,
+		"category": "Fish",
+		"defname": "VCEF_RawLobster"
+	},
+	{
+		"abr": "mackerel",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawMackerel"
+	},
+	{
+		"abr": "minnow",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawMinnow"
+	},
+	{
+		"abr": "pepperspray",
+		"price": 458,
+		"category": "Ranged weapons",
+		"defname": "LVE_PepperSpray"
+	},
+	{
+		"abr": "perch",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawPerch"
+	},
+	{
+		"abr": "pufferfish",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawPufferfish"
+	},
+	{
+		"abr": "pumprubbershotgun",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "LVE_RubberShotgun"
+	},
+	{
+		"abr": "rubbershotcannon",
+		"price": 708,
+		"category": "Security",
+		"defname": "LVE_MannedRubberCannon"
+	},
+	{
+		"abr": "sprat",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawSprat"
+	},
+	{
+		"abr": "superchief",
+		"price": 4233,
+		"category": "Animal",
+		"defname": "JASV_Superchief"
+	},
+	{
+		"abr": "swordfish",
+		"price": 43,
+		"category": "Fish",
+		"defname": "VCEF_RawSwordfish"
+	},
+	{
+		"abr": "syringegun",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "LVE_SyringeGun"
+	},
+	{
+		"abr": "syringesentry",
+		"price": 1300,
+		"category": "Security",
+		"defname": "LVE_SentrySyringeTurret"
+	},
+	{
+		"abr": "syringesentryii",
+		"price": 2608,
+		"category": "Security",
+		"defname": "LVE_SentrySyringeTurretAdvanced"
+	},
+	{
+		"abr": "syringeturret",
+		"price": 1300,
+		"category": "Security",
+		"defname": "LVE_MannedSyringeTurret"
+	},
+	{
+		"abr": "syringeturretii",
+		"price": 2317,
+		"category": "Security",
+		"defname": "LVE_MannedDoubleSyringeTurret"
+	},
+	{
+		"abr": "tazersentry",
+		"price": 592,
+		"category": "Security",
+		"defname": "LVE_TazerSentry"
+	},
+	{
+		"abr": "teargasgrenadelauncher",
+		"price": 2417,
+		"category": "Security",
+		"defname": "LVE_MannedTearGasGrenadeTurret"
+	},
+	{
+		"abr": "teargasgrenadesentry",
+		"price": 2417,
+		"category": "Security",
+		"defname": "LVE_SentryTearGasGrenade"
+	},
+	{
+		"abr": "teargassentry",
+		"price": 2608,
+		"category": "Security",
+		"defname": "LVE_TearGasSentry"
+	},
+	{
+		"abr": "trout",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawTrout"
+	},
+	{
+		"abr": "warchief",
+		"price": 4233,
+		"category": "Animal",
+		"defname": "JASV_Warchief"
 	}
 	],
-	"total": 2011
+	"total": 2045
 }
