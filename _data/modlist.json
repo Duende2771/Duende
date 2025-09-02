@@ -90,6 +90,18 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Riko, Evelyn and 黑白照",
+    "name": "BioCasket",
+    "steamId": "3538351795",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "_進取科工_",
+    "name": "Bioferrite napalm",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AobaKuma OttersHoldHands iforgotmysocks",
     "name": "Camping Tent",
     "steamId": "2407128339",
@@ -108,6 +120,12 @@
     "version": null
   },
   {
+    "author": "Noise",
+    "name": "Cleansweeper Is Maid",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Edern and Sir Van",
     "name": "Combat Psycasts",
     "steamId": null,
@@ -117,7 +135,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9347.31617"
+    "version": "1.0.9374.28061"
   },
   {
     "author": "Ogam",
@@ -192,8 +210,20 @@
     "version": null
   },
   {
+    "author": "AmCh, HappyCam and Eragon",
+    "name": "Gene Fabrication",
+    "steamId": "3352773112",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Aelanna",
     "name": "Get Out Of My Chair!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!",
     "steamId": null,
     "version": null
   },
@@ -202,6 +232,18 @@
     "name": "Harvest Organs Post Mortem Continued",
     "steamId": "1204502413",
     "version": "4.1.1.0"
+  },
+  {
+    "author": "AzzyH",
+    "name": "Azzy's Weapon Library",
+    "steamId": "3519328271",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AzzyH",
+    "name": "HellDivers Weapon Pack",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "HyouSol",
@@ -435,7 +477,7 @@
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
-    "version": "1.0.0+9bf3e3d10192ecb6019097968fdd99072e45e1ea"
+    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
   },
   {
     "author": "cem",
@@ -501,7 +543,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "",
-    "version": "1.0.0+75fd2e732628d8a53947206c5e161917629327cb"
+    "version": "1.0.0+5dc25f5229704f0b443ec0b6bf696f8add7e8a01"
   },
   {
     "author": "Fluffy",
@@ -558,6 +600,12 @@
     "version": null
   },
   {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
     "author": "denev",
     "name": "Smart Turret Covering",
     "steamId": "2636621800",
@@ -603,7 +651,7 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.6+a187a2ecb4465db166dbb9fa63f1f39e53db1695"
+    "version": "1.6+640efbf646275dafd663d0b6efbacb2a67d02d30"
   },
   {
     "author": "Halituis Amaricanous and Nepenthe",
@@ -657,7 +705,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.68"
+    "version": "1.6.74"
   },
   {
     "author": "Ushanka",
@@ -774,14 +822,26 @@
     "version": null
   },
   {
+    "author": "Xercaine",
+    "name": "Wall Heater",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Laser",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Xercaine",
-    "name": "Wall Heater",
+    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Pentirin",
+    "name": "Weirdcaskets",
     "steamId": null,
     "version": null
   },
