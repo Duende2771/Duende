@@ -12269,7 +12269,553 @@
 		"price": 4233,
 		"category": "Animal",
 		"defname": "JASV_Warchief"
+	},
+	{
+		"abr": "ac-22'dum-dum'",
+		"price": 5267,
+		"category": "Ranged weapons",
+		"defname": "Gun_DumDum"
+	},
+	{
+		"abr": "ac-3arcthrower",
+		"price": 1750,
+		"category": "Ranged weapons",
+		"defname": "Arc_Thrower"
+	},
+	{
+		"abr": "ac-5arcshotgun",
+		"price": 1750,
+		"category": "Ranged weapons",
+		"defname": "Arc_Shotgun"
+	},
+	{
+		"abr": "ammobox",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "AmmoBox"
+	},
+	{
+		"abr": "ar-19'liberator'",
+		"price": 1075,
+		"category": "Ranged weapons",
+		"defname": "Gun_Liberator"
+	},
+	{
+		"abr": "ar-20l'justice'",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Gun_Justice"
+	},
+	{
+		"abr": "ar-22c'patriot'",
+		"price": 1342,
+		"category": "Ranged weapons",
+		"defname": "Gun_Patriot"
+	},
+	{
+		"abr": "arm",
+		"price": 333,
+		"category": "Natural",
+		"defname": "Arm"
+	},
+	{
+		"abr": "bioferritenapalm",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_Bioferrite_napalm"
+	},
+	{
+		"abr": "bioferritenapalmtrap",
+		"price": 153,
+		"category": "Security",
+		"defname": "TrapIED_Bioferrite_napalm"
+	},
+	{
+		"abr": "bioferritenaplamlauncher",
+		"price": 575,
+		"category": "Ranged weapons",
+		"defname": "Gun_BionaplamLauncher"
+	},
+	{
+		"abr": "brain",
+		"price": 1500,
+		"category": "Natural",
+		"defname": "Brain"
+	},
+	{
+		"abr": "cannon",
+		"price": 12,
+		"category": "Security",
+		"defname": "VFEP_Turret_Cannon"
+	},
+	{
+		"abr": "cr-9'suppressor'",
+		"price": 1633,
+		"category": "Ranged weapons",
+		"defname": "Gun_Suppressor"
+	},
+	{
+		"abr": "dbs-2'doublefreedom'",
+		"price": 933,
+		"category": "Ranged weapons",
+		"defname": "Gun_DoubleFreedom"
+	},
+	{
+		"abr": "ear",
+		"price": 83,
+		"category": "Natural",
+		"defname": "Ear"
+	},
+	{
+		"abr": "eat-17",
+		"price": 850,
+		"category": "Ranged weapons",
+		"defname": "Gun_EAT"
+	},
+	{
+		"abr": "eyeball",
+		"price": 333,
+		"category": "Natural",
+		"defname": "Eye"
+	},
+	{
+		"abr": "fieldgun",
+		"price": 1058,
+		"category": "Security",
+		"defname": "VFEP_Turret_FieldGun"
+	},
+	{
+		"abr": "flam-24'pyro'",
+		"price": 450,
+		"category": "Ranged weapons",
+		"defname": "Gun_Pyro"
+	},
+	{
+		"abr": "flam-40'incinerator'",
+		"price": 5533,
+		"category": "Ranged weapons",
+		"defname": "Spewer_Incinerator"
+	},
+	{
+		"abr": "foot",
+		"price": 167,
+		"category": "Natural",
+		"defname": "Foot"
+	},
+	{
+		"abr": "hand",
+		"price": 167,
+		"category": "Natural",
+		"defname": "Hand"
+	},
+	{
+		"abr": "jaw",
+		"price": 125,
+		"category": "Natural",
+		"defname": "Jaw"
+	},
+	{
+		"abr": "kidoutfitstand",
+		"price": 102,
+		"category": "Furniture",
+		"defname": "Building_KidOutfitStand"
+	},
+	{
+		"abr": "las-12'tanto'",
+		"price": 1633,
+		"category": "Ranged weapons",
+		"defname": "Gun_Tanto"
+	},
+	{
+		"abr": "las-13'trident'",
+		"price": 1750,
+		"category": "Ranged weapons",
+		"defname": "Gun_Trident"
+	},
+	{
+		"abr": "las-16sickle",
+		"price": 1750,
+		"category": "Ranged weapons",
+		"defname": "Gun_Sickle"
+	},
+	{
+		"abr": "las-5'scythe'",
+		"price": 1633,
+		"category": "Ranged weapons",
+		"defname": "Gun_Scythe"
+	},
+	{
+		"abr": "las-98lasercannon",
+		"price": 5867,
+		"category": "Ranged weapons",
+		"defname": "Gun_LaserCannon"
+	},
+	{
+		"abr": "leg",
+		"price": 333,
+		"category": "Natural",
+		"defname": "Leg"
+	},
+	{
+		"abr": "lho-63'camper'",
+		"price": 1275,
+		"category": "Ranged weapons",
+		"defname": "Gun_Camper"
+	},
+	{
+		"abr": "m1'tactical'bodyarmor",
+		"price": 4517,
+		"category": "Armor",
+		"defname": "HellDiver_Armor_Tactical"
+	},
+	{
+		"abr": "m2016'constitution'",
+		"price": 942,
+		"category": "Ranged weapons",
+		"defname": "Gun_Constitution"
+	},
+	{
+		"abr": "m-25'rumbler'",
+		"price": 5267,
+		"category": "Ranged weapons",
+		"defname": "Mortar_Rumbler"
+	},
+	{
+		"abr": "mg-105'stalwart'",
+		"price": 1492,
+		"category": "Ranged weapons",
+		"defname": "Gun_Stalwart"
+	},
+	{
+		"abr": "mg-94machinegun",
+		"price": 5267,
+		"category": "Ranged weapons",
+		"defname": "Gun_MachineGun"
+	},
+	{
+		"abr": "mgx-42machinegun",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "Gun_DisposableMachineGun"
+	},
+	{
+		"abr": "mk5'tactical'helmet",
+		"price": 1625,
+		"category": "Headgear",
+		"defname": "HellDiver_Armor_Tactical_Helmet"
+	},
+	{
+		"abr": "mls-4x'commando'",
+		"price": 5267,
+		"category": "Ranged weapons",
+		"defname": "Mortar_Commando"
+	},
+	{
+		"abr": "mp-98'knight'smg",
+		"price": 992,
+		"category": "Ranged weapons",
+		"defname": "Gun_Knight"
+	},
+	{
+		"abr": "nose",
+		"price": 83,
+		"category": "Natural",
+		"defname": "Nose"
+	},
+	{
+		"abr": "'obliterator'grenadelauncher",
+		"price": 5150,
+		"category": "Ranged weapons",
+		"defname": "Mortar_Obliterator"
+	},
+	{
+		"abr": "outfitstand",
+		"price": 119,
+		"category": "Furniture",
+		"defname": "Building_OutfitStand"
+	},
+	{
+		"abr": "p-2'peacemaker'",
+		"price": 313,
+		"category": "Ranged weapons",
+		"defname": "Gun_Peacemaker"
+	},
+	{
+		"abr": "p-6'gunslinger'",
+		"price": 392,
+		"category": "Ranged weapons",
+		"defname": "Gun_Gunslinger"
+	},
+	{
+		"abr": "plas-1'scorchor'",
+		"price": 1633,
+		"category": "Ranged weapons",
+		"defname": "Gun_Scorchor"
+	},
+	{
+		"abr": "plas-3'singe'",
+		"price": 350,
+		"category": "Ranged weapons",
+		"defname": "Gun_Singe"
+	},
+	{
+		"abr": "privateerarmor",
+		"price": 3692,
+		"category": "Armor",
+		"defname": "VFEP_Apparel_Privateer"
+	},
+	{
+		"abr": "rec-6'demolisher'",
+		"price": 1058,
+		"category": "Ranged weapons",
+		"defname": "Bomb_Demolisher"
+	},
+	{
+		"abr": "rl-112recoillessrifle",
+		"price": 5650,
+		"category": "Ranged weapons",
+		"defname": "Gun_RecoillessRifle"
+	},
+	{
+		"abr": "rum",
+		"price": 10,
+		"category": "Drugs",
+		"defname": "VFEP_Rum"
+	},
+	{
+		"abr": "rumsuit",
+		"price": 350,
+		"category": "Apparel",
+		"defname": "VFEP_Apparel_Rumsuit"
+	},
+	{
+		"abr": "rx-1railgun",
+		"price": 3133,
+		"category": "Ranged weapons",
+		"defname": "Gun_RailGun"
+	},
+	{
+		"abr": "sg-225'breaker'",
+		"price": 1117,
+		"category": "Ranged weapons",
+		"defname": "Gun_Breaker"
+	},
+	{
+		"abr": "sg-8'punisher'",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_Punisher"
+	},
+	{
+		"abr": "smg-34'ninja'",
+		"price": 842,
+		"category": "Ranged weapons",
+		"defname": "Gun_Ninja"
+	},
+	{
+		"abr": "smg-45'defender'",
+		"price": 992,
+		"category": "Ranged weapons",
+		"defname": "Gun_Defender"
+	},
+	{
+		"abr": "spine",
+		"price": 1250,
+		"category": "Natural",
+		"defname": "Spine"
+	},
+	{
+		"abr": "stomach",
+		"price": 583,
+		"category": "Natural",
+		"defname": "Stomach"
+	},
+	{
+		"abr": "supportpack",
+		"price": 917,
+		"category": "Utility",
+		"defname": "Apparel_Supportpack"
+	},
+	{
+		"abr": "tox-13'avenger'",
+		"price": 5650,
+		"category": "Ranged weapons",
+		"defname": "Spewer_Avenger"
+	},
+	{
+		"abr": "vacskingland",
+		"price": 2050,
+		"category": "Bionic",
+		"defname": "VacskinGland"
+	},
+	{
+		"abr": "warcasketautorifle",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_Autorifle"
+	},
+	{
+		"abr": "warcasketautorifle",
+		"price": 2083,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Autorifle"
+	},
+	{
+		"abr": "warcasketbroadsword",
+		"price": 2433,
+		"category": "Misc",
+		"defname": "VFEP_Box_Broadsword"
+	},
+	{
+		"abr": "warcasketbroadsword",
+		"price": 2433,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_Broadsword"
+	},
+	{
+		"abr": "warcasketchargeblaster",
+		"price": 3667,
+		"category": "Misc",
+		"defname": "VFEP_Box_ChargeBlaster"
+	},
+	{
+		"abr": "warcasketchargeblaster",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_ChargeBlaster"
+	},
+	{
+		"abr": "warcasketchargelance",
+		"price": 3750,
+		"category": "Misc",
+		"defname": "VFEP_Box_ChargeLance"
+	},
+	{
+		"abr": "warcasketchargelance",
+		"price": 3750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_ChargeLance"
+	},
+	{
+		"abr": "warcasketcombatknife",
+		"price": 1450,
+		"category": "Misc",
+		"defname": "VFEP_Box_CombatKnife"
+	},
+	{
+		"abr": "warcasketcombatknife",
+		"price": 1450,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_CombatKnife"
+	},
+	{
+		"abr": "warcasketgravityhammer",
+		"price": 5000,
+		"category": "Misc",
+		"defname": "VFEP_Box_GravityHammer"
+	},
+	{
+		"abr": "warcasketgravityhammer",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_GravityHammer"
+	},
+	{
+		"abr": "warcasketgrenadelauncher",
+		"price": 3150,
+		"category": "Misc",
+		"defname": "VFEP_Box_GrenadeLauncher"
+	},
+	{
+		"abr": "warcasketgrenadelauncher",
+		"price": 3150,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_GrenadeLauncher"
+	},
+	{
+		"abr": "warcaskethandheldcannon",
+		"price": 2250,
+		"category": "Misc",
+		"defname": "VFEP_Box_HandheldCannon"
+	},
+	{
+		"abr": "warcaskethandheldcannon",
+		"price": 2250,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_HandheldCannon"
+	},
+	{
+		"abr": "warcasketheavyflamer",
+		"price": 4083,
+		"category": "Misc",
+		"defname": "VFEP_Box_HeavyFlamer"
+	},
+	{
+		"abr": "warcasketheavyflamer",
+		"price": 4083,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_HeavyFlamer"
+	},
+	{
+		"abr": "warcasketlaserblaster",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_LaserBlaster"
+	},
+	{
+		"abr": "warcasketminigun",
+		"price": 3733,
+		"category": "Misc",
+		"defname": "VFEP_Box_Minigun"
+	},
+	{
+		"abr": "warcasketminigun",
+		"price": 3733,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Minigun"
+	},
+	{
+		"abr": "warcasketplasmasword",
+		"price": 6000,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_PlasmaSword"
+	},
+	{
+		"abr": "warcasketsalvagedlasereradicator",
+		"price": 6833,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_SalvagedLaserEradicator"
+	},
+	{
+		"abr": "warcasketsalvagedlasereradicator",
+		"price": 6833,
+		"category": "Misc",
+		"defname": "VFEP_Box_SalvagedLaserEradicator"
+	},
+	{
+		"abr": "warcasketslugthrower",
+		"price": 1833,
+		"category": "Misc",
+		"defname": "VFEP_Box_Slugthrower"
+	},
+	{
+		"abr": "warcasketslugthrower",
+		"price": 1833,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Slugthrower"
+	},
+	{
+		"abr": "warcasketteargasgrenadelauncher",
+		"price": 2750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_TearGasGrenadeLauncher"
+	},
+	{
+		"abr": "warcasketteargasgrenadelauncher",
+		"price": 2750,
+		"category": "Misc",
+		"defname": "VFEP_Box_TearGasGrenadeLauncher"
 	}
 	],
-	"total": 2045
+	"total": 2138
 }
