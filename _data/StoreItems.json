@@ -1748,7 +1748,7 @@
 	},
 	{
 		"abr": "duck",
-		"price": 100,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Duck"
 	},
@@ -1844,13 +1844,13 @@
 	},
 	{
 		"abr": "hare",
-		"price": 83,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Hare"
 	},
 	{
 		"abr": "snowhare",
-		"price": 83,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Snowhare"
 	},
@@ -1958,7 +1958,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 58,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Squirrel"
 	},
@@ -3992,7 +3992,7 @@
 	},
 	{
 		"abr": "hedgehog",
-		"price": 42,
+		"price": -10,
 		"category": "Animals",
 		"defname": "AEXP_Hedgehog"
 	},
@@ -8276,7 +8276,7 @@
 	},
 	{
 		"abr": "swarmlings",
-		"price": 83,
+		"price": -10,
 		"category": "Animals",
 		"defname": "VFEI2_Swarmling"
 	},
@@ -8666,7 +8666,7 @@
 	},
 	{
 		"abr": "bluebird",
-		"price": 50,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Bluebird"
 	},
@@ -8840,7 +8840,7 @@
 	},
 	{
 		"abr": "crow",
-		"price": 50,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Crow"
 	},
@@ -9068,7 +9068,7 @@
 	},
 	{
 		"abr": "hermitcrab",
-		"price": 100,
+		"price": -10,
 		"category": "Animals",
 		"defname": "HermitCrab"
 	},
@@ -9194,7 +9194,7 @@
 	},
 	{
 		"abr": "larva",
-		"price": 58,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Larva"
 	},
@@ -9572,7 +9572,7 @@
 	},
 	{
 		"abr": "porcupine",
-		"price": 58,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Porcupine"
 	},
@@ -9614,7 +9614,7 @@
 	},
 	{
 		"abr": "quail",
-		"price": 50,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Quail"
 	},
@@ -9878,7 +9878,7 @@
 	},
 	{
 		"abr": "sparrow",
-		"price": 50,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Sparrow"
 	},
@@ -10190,7 +10190,7 @@
 	},
 	{
 		"abr": "aberrantfleshbeast",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_AberrantFleshbeast"
 	},
@@ -10586,7 +10586,7 @@
 	},
 	{
 		"abr": "booman",
-		"price": 458,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Booman"
 	},
@@ -10832,7 +10832,7 @@
 	},
 	{
 		"abr": "chickenrabbit",
-		"price": 75,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Chickenrabbit"
 	},
@@ -10988,25 +10988,25 @@
 	},
 	{
 		"abr": "fleshflies",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_FleshFlies"
 	},
 	{
 		"abr": "fleshgrowth",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_FleshGrowth"
 	},
 	{
 		"abr": "fleshmonstrosity",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_FleshMonstrosity"
 	},
 	{
 		"abr": "fleshling",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Fleshling"
 	},
@@ -11720,7 +11720,7 @@
 	},
 	{
 		"abr": "rabbitchicken",
-		"price": 25,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Rabbitchicken"
 	},
@@ -12815,7 +12815,19 @@
 		"price": 2750,
 		"category": "Misc",
 		"defname": "VFEP_Box_TearGasGrenadeLauncher"
-	}
+	},
+	{
+		"abr": "warcasketuraniumslugrifle",
+		"price": 2750,
+		"category": "Misc",
+		"defname": "VFEP_Box_UraniumSlugRifle"
+	},
+	{
+		"abr": "hellbombpack",
+		"price": 975,
+		"category": "Utility",
+		"defname": "Apparel_hellbombpack"
+	},
 	],
-	"total": 2138
+	"total": 2140
 }
