@@ -2302,7 +2302,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy is fueled by spite. he can’t stand sharing the colony with rivals, and feels happier when one of them dies.",
       "stats": [
@@ -3675,7 +3675,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Doom"
       },
       "defName": "VFEP_Shellcasket",
       "name": "shellcasket"
@@ -3747,10 +3747,10 @@
       "name": "xenophile"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy has experienced the danger of a deadly cryptobiological organism. he is wary of its life cycle and the danger it poses.",
       "stats": [],
@@ -4149,7 +4149,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a magical gift. he can harness this gift to become a mage by studying the mysterious secrets within an arcane script.",
@@ -4283,10 +4283,10 @@
       "name": "magicallygifted"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is an empath, able to feel and manipulate the emotions of those around him. his's abilities are tied to magic, but have affected him on a more innate level. However, with training, Timmy can still become an adept magic user. For better or worse, empath's have a very strong presence and can easily read the presence of others; the effectiveness of their abilities are closely tied to their aptitude for overcoming another's defenses.",
       "stats": [
@@ -4943,8 +4943,8 @@
       "name": "empath"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -5217,10 +5217,10 @@
       "name": "wanderer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is attuned with the elements of fire.",
       "stats": [
@@ -5493,10 +5493,10 @@
       "name": "firemage"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is attuned with the elements of water.",
       "stats": [
@@ -5767,10 +5767,10 @@
       "name": "icemage"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is attuned with the elements of lightning.",
       "stats": [
@@ -6037,10 +6037,10 @@
       "name": "lightningmage"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is attuned with arcane forces, interacting directly with raw arcane power to move matter and energy at will.",
       "stats": [
@@ -6315,10 +6315,10 @@
       "name": "arcanemage"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is attuned with the forces of nature.",
       "stats": [
@@ -6591,10 +6591,10 @@
       "name": "druid"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy has been bestowed with divine might and has sworn to uphold justice wherever he stands.",
       "stats": [
@@ -6863,10 +6863,10 @@
       "name": "paladin"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is able to summon beings and materialize objects from other planes of existence.",
       "stats": [
@@ -7133,10 +7133,10 @@
       "name": "summoner"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is attuned with the forces of death.",
       "stats": [
@@ -7409,10 +7409,10 @@
       "name": "necromancer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy has transformed into a lich, forsaking life in exchange for an power and an immortal existence. he disdains menial taks, choosing to employ undead for trivial matters.",
       "stats": [
@@ -7709,10 +7709,10 @@
       "name": "lich"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is attuned with the forces of life and healing and has taken a vow against harming others.",
       "stats": [
@@ -7989,10 +7989,10 @@
       "name": "priest"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a natural entertainer, able to lighten the mood and lift the spirits of everyone around him.",
       "stats": [
@@ -8255,10 +8255,10 @@
       "name": "entertainer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 1,
       "description": "Timmy is a performer; expanding on natural talent, he has begun to take an conscious role to improve the mood of other colonists.",
       "stats": [
@@ -8521,10 +8521,10 @@
       "name": "performer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 2,
       "description": "Everyone loves being around Timmy. he has talent, wit and skill in many forms of entertainment and is able to make a personal connection with almost everyone.",
       "stats": [
@@ -8787,10 +8787,10 @@
       "name": "minstrel"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 3,
       "description": "Timmy is a master entertainer. Sharp wit, deft hands, and dry humor are his weapons, and he is a master of all his weapons.",
       "stats": [
@@ -9053,10 +9053,10 @@
       "name": "bard"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy has a strange genetic strain that grants her enhanced physical attributes. She is also extremely attractive with an exotic facial structure that captures the eye. A succubus is more likely to exploit her physical advantages and have others do her work for her. his succubus charm has its disadvantages and can cause some to become jealous and even despise him.",
       "stats": [
@@ -9339,10 +9339,10 @@
       "name": "succubus"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a Warlock - able to manifest physical and demonic forces using his unique access to arcane power. The warlock shares the same genetic mixture as a succubus, but as a male, he is affected with mental enhancements that include clairvoyance and telekineses. The warlock can occasionally affect the outcome of a social interaction using their mental capabilities, regardless of how the interaction actually occurred.",
       "stats": [
@@ -9625,10 +9625,10 @@
       "name": "warlock"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is attuned with the earth and natural order, drawing power from the physical realm and intertwining it with arcane energy. he is capable of reinforcing physical elements, and bending them, as he needs.",
       "stats": [
@@ -9907,10 +9907,10 @@
       "name": "geomancer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. he is capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve his goals, but has difficulty interacting with biological systems.",
       "stats": [
@@ -10193,10 +10193,10 @@
       "name": "technomancer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a blood mage and has consigned to the dark art of manipulating the life blood of living things as a means of increasing his power.\n\nAs a blood mage, Timmy has learned to control the life force within and command it to his will. his connection to life makes it easier to associate with other living things, but doesn't appreciate effort without immediate results.",
       "stats": [
@@ -10469,10 +10469,10 @@
       "name": "bloodmage"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is an enchanter, attuned to the composition of matter and materials. he can manipulate matter to his will, frequently in unnatural ways, and his powers of transmutation can be permanent when sufficient effort is applied.",
       "stats": [
@@ -10747,10 +10747,10 @@
       "name": "enchanter"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a chronomancer. Through arcane sight, he is able to view reality as it once was and as it could be, and can manipulate objects between those realities.",
       "stats": [
@@ -11017,10 +11017,10 @@
       "name": "chronomancer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy has rejected all predefined magic paths and refuses to attribute objective reality in his search for power; there are no truths, all magic is permitted. This tradition has enabled Timmy to learn any type of magic, although he will never master any.",
       "stats": [
@@ -11287,10 +11287,10 @@
       "name": "chaosmage"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a half-breed demon with an affinity for shadow magic. he has developed his unique talents through combat training and physical conditioning making him the perfect assassin.",
       "stats": [
@@ -11953,10 +11953,10 @@
       "name": "shadow"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a brightmage, able to harness the powers of light to purge evil. he approaches any task with an unrivaled fervor that usually places him at the forefront. Being a Brightmage introduces a dependency on the sun and light, because of this, Timmy has developed an intense hatred for shadowy and dark caricatures.",
       "stats": [
@@ -12617,10 +12617,10 @@
       "name": "brightmage"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Shamans take a more harmonious approach to arcane powers than most mages, choosing to pursue a path that works with the ebb and flow of magic to offset or enhance the natural order. Timmy is kin to the spirit realm and more attuned to nature and its elements.",
       "stats": [
@@ -13279,10 +13279,10 @@
       "name": "shaman"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Golemancers prefer to weave their magic through powerful runes and sigils that are able to transfer purpose into an object. Timmy is no exception; he can create runes that enhance basic mechanics, alter chemicals in biological matter, and animate mundane material into life-like, monstrous creatures. Golemancers are most effective when channeling their magic through symbols and find it more difficult to convert mana to energy directly but are also have higher arcane resistances. Most golemancers tend to find rocks more interesting than people and have little concern for cleanliness.",
       "stats": [
@@ -15127,7 +15127,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is physically adept and has potential to learn special combat forms.",
@@ -15261,8 +15261,8 @@
       "name": "physicallyadept"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -15535,10 +15535,10 @@
       "name": "wayfarer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is an apothecary, trained in the preparation of medicines, balms, tinctures and drugs. his profession exhibits strict discipline and dedication, and he has learned to apply his discipline to more generic, physical skills. With training, he can become capable in many combat techniques to augment his skill in herbs.",
       "stats": [
@@ -16201,10 +16201,10 @@
       "name": "apothecary"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy has learned how to train the Gladiator combat style.",
       "stats": [
@@ -16487,10 +16487,10 @@
       "name": "gladiator"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a trained woodsman; preferring the silence and lethality of a bow and armed with field-craft and cunning, he is prepared to defend his land from invaders.",
       "stats": [
@@ -16765,10 +16765,10 @@
       "name": "woodsman"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 1,
       "description": "Timmy is a hunter; he employs field-craft, cunning, and skill with a bow to defend his land from invaders.",
       "stats": [
@@ -17043,10 +17043,10 @@
       "name": "hunter"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 2,
       "description": "Timmy is a scout; comfortable in the wilds, and relied upon to be the eyes and ears of a colony. he employs expertise in field-craft, cunning, and the bow to defend his land from invaders.",
       "stats": [
@@ -17321,10 +17321,10 @@
       "name": "scout"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 3,
       "description": "Timmy is a ranger; master of the wilds.  he is a master of his craft and defender of his land.",
       "stats": [
@@ -17599,10 +17599,10 @@
       "name": "ranger"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Training to become a sniper has caused some colonists to be uncomfortable around him, not that he cares.",
       "stats": [
@@ -17867,10 +17867,10 @@
       "name": "sharpshooter"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 1,
       "description": "Timmy has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Becoming a sniper has caused him to become distanced from other colonists and somewhat unapproachable, not that he cares.",
       "stats": [
@@ -18135,10 +18135,10 @@
       "name": "sniper"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 2,
       "description": "Timmy is a master sniper, skilled in the economy and accuracy of long range, small arms combat. Being a sniper has made him avoid other colonists, not that they care.",
       "stats": [
@@ -18403,10 +18403,10 @@
       "name": "mastersniper"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 3,
       "description": "Timmy is a legendary sniper, skilled in the economy and accuracy of long range, small arms combat.  Other colonists avoid eye contact and whisper in corners about how dangerous he is and that suits him just fine.",
       "stats": [
@@ -18671,10 +18671,10 @@
       "name": "legendarysniper"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is training to become a master of the blade and excels at fighting in melee combat.",
       "stats": [
@@ -18937,10 +18937,10 @@
       "name": "bladesman"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 1,
       "description": "Timmy has trained to become a sword master, dangerously skilled in melee combat.",
       "stats": [
@@ -19203,10 +19203,10 @@
       "name": "blademaster"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 2,
       "description": "Timmy is a blade dancer, highly skilled in melee combat.  Watching him fight is like watching a dance, every action precise and flawless as it flows from one form into another.",
       "stats": [
@@ -19471,10 +19471,10 @@
       "name": "bladedancer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 3,
       "description": "Timmy has become a legend, his skill in melee combat is is known across the world. his skill in combat makes it look as if each movement, each strike, is merely a stitch in a tapestry that depicts his victory.",
       "stats": [
@@ -19739,10 +19739,10 @@
       "name": "legendarybladedancer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a master of disguise and imitation; able to manipulate and capture the muscle and mental actions of another and release it as their own.",
       "stats": [
@@ -20019,10 +20019,10 @@
       "name": "faceless"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a Psionic - able to manifest mental willpower into raw energy without the use of a psychic amplifier. he is able to project psionic energy but finds it easier and more efficient to apply it as an extension of his body. For this reason, he prefers to be free of encumbering weapons when manifesting psionic energy.\n\nTimmy has become less social since developing psionic powers, preferring to be unhindered by other pawns.\n\n*The regeneration rate of psionic energy is based on psychic sensitivity - reducing sensitivity to 0 will prevent psionic energy from regenerating.",
       "stats": [
@@ -20295,10 +20295,10 @@
       "name": "psionic"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a Death Knight - harbinger of doom and a representative of the ever approaching inevitability of death and decay. his solemn attitude makes most pawns uneasy and even fewer approve of his methods.",
       "stats": [
@@ -20565,10 +20565,10 @@
       "name": "deathknight"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a Monk, dedicated to mastering Chi - the energy that connects all life in the universe. he harnesses Chi to create magical effects and exceed his physical capabilities. Timmy is also able to disrupt the Chi in others, affecting their command over spells and abilities.",
       "stats": [
@@ -20841,10 +20841,10 @@
       "name": "monk"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "As a Commander, Timmy exhibits a charismatic personality and stalwart presence that makes other pawns want to follow his lead. Commander's utilize the weight of their presence to inspire nearby pawns, and when that's not enough, they can issue orders that drive their followers to victory. Because Timmy is used to everyone doing his bidding, he considers menial tasks beneath his status, and is generally a lackluster worker.",
       "stats": [
@@ -21111,10 +21111,10 @@
       "name": "commander"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 0,
       "description": "Timmy is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. his weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument.",
       "stats": [
@@ -21389,10 +21389,10 @@
       "name": "supersoldier"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Red Mage, a flourishing spellblade who weaves through combat with deadly flair.",
       "stats": [
@@ -21951,10 +21951,10 @@
       "name": "redmage"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Ninja, a stealthy and agile fighter with a few magical tricks up their sleeves. They excel in bringing down enemies before they even know what hit them.",
       "stats": [
@@ -22505,10 +22505,10 @@
       "name": "ninja"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is an Elemental Gunner, a magically-gifted pawn capable of imbuing their ammunition with magical power. Their magically-heightened awareness allows them to shoot at frightening speeds. They specialize in laying down sustained suppressive fire.",
       "stats": [
@@ -23053,10 +23053,10 @@
       "name": "elementalgunner"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Bombardier, a fighter specializing in long-range explosive weaponry. They are experts at siege warfare, and can fire explosives over walls from behind cover.",
       "stats": [
@@ -23599,10 +23599,10 @@
       "name": "bombardier"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Railbreaker, a reckless melee brawler equipped with extremely dangerous augments that allow them to create explosions at will, which they fire at point-blank range. They are unmatched in firepower, but their greatest weakness is the recoil from their own moves.",
       "stats": [
@@ -24153,10 +24153,10 @@
       "name": "railbreaker"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Samurai, a wandering swordsman who specializes in Iai.",
       "stats": [
@@ -24709,10 +24709,10 @@
       "name": "samurai"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Gadgeteer, an eccentric inventor who carries around numerous gadgets and tools to assist them in daily life.",
       "stats": [
@@ -25267,10 +25267,10 @@
       "name": "gadgeteer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Wind Mage, capable of bending the very air itself to their will.",
       "stats": [
@@ -26385,10 +26385,10 @@
       "name": "medic"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Chroma Mage, a versatile spellcaster capable of undertaking numerous paths of mastery. Timmy can learn any of several powerful spells, but they will never master them all. Their maximum level is 30.",
       "stats": [
@@ -26935,10 +26935,10 @@
       "name": "chromamage"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Harbinger, a mage whose presence always signals death and destruction. They are capable of tapping into dark forces to curse their enemies, corrupting their body and soul. Due to their unique link with their victims, most of their spells do not require line of sight to cast.",
       "stats": [
@@ -27489,10 +27489,10 @@
       "name": "harbinger"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "No one knows of Timmy's true origins, but in battle they seem more a demon than anything else. They are capable of flying directly into enemy positions unbidden and warping the minds of their enemies, causing discord and destruction.",
       "stats": [
@@ -28043,10 +28043,10 @@
       "name": "reaper"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Berserker, a rampaging fighter who lives to kill or be killed.",
       "stats": [
@@ -28613,10 +28613,10 @@
       "name": "berserker"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Scion, a melee fighter that channels the aspects of ancient spirits to aid them both in combat and and in daily life.",
       "stats": [
@@ -29167,10 +29167,10 @@
       "name": "scion"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Plaguedoctor, a half-crazed medieval physician who delights in poisons and disease. They are capable of performing uniquely terrifying surgical procedures on both allies and enemies.",
       "stats": [
@@ -29719,10 +29719,10 @@
       "name": "plaguedoctor"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Cleric, a versatile mid-line healer capable of quickly healing and cleansing their allies.",
       "stats": [
@@ -30269,10 +30269,10 @@
       "name": "cleric"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is an Arbormancer, a mage whose magic power is derived from living plants. They are not necessarily allies of the wood, however. They often earn the ire of Rangers and Druids through their wanton mistreatment of nature.",
       "stats": [
@@ -30823,10 +30823,10 @@
       "name": "arbormancer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Chainwarden, a fighter that has mastered the usage of chains as a combat weapon. They excel at controlling enemy movements and dealing with multiple opponents at once.",
       "stats": [
@@ -31373,10 +31373,10 @@
       "name": "chainwarden"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is an Ambusher, a fighter that lies in cold wait for their enemies with traps and devastating close-range abilities.",
       "stats": [
@@ -31927,10 +31927,10 @@
       "name": "ambusher"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Saboteur, a fighter that specializes in going behind enemy lines and disabling key enemy buildings and defenses.",
       "stats": [
@@ -33039,10 +33039,10 @@
       "name": "keeper"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Pridestalker, a fighter that combines bow and magic to turn any fight into a deadly hunt.",
       "stats": [
@@ -33599,10 +33599,10 @@
       "name": "pridestalker"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Starseeker, a fledgling mage with incredible potential.",
       "stats": [
@@ -34175,10 +34175,10 @@
       "name": "starseeker"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is an Aspirant, a fledgling fighter with incredible potential.",
       "stats": [
@@ -34751,10 +34751,10 @@
       "name": "aspirant"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Hawkeye, a fighter that has dedicated their life to the mastery of the bow.",
       "stats": [
@@ -35299,10 +35299,10 @@
       "name": "hawkeye"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is an Atronach, an anomaly among spellcasters. They are capable of casting some powerful spells, but they are completely out of tune with the flow of magic and do not regenerate mana. They must find their own sources of mana with which to fuel their spells.",
       "stats": [
@@ -35851,10 +35851,10 @@
       "name": "atronach"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a versatile, shotgun-toting combat support, capable of taking out key targets, holding the line, or supporting allies.",
       "stats": [
@@ -36411,10 +36411,10 @@
       "name": "supportspecialist"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Scrapper, a combatant that prefers unarmed brawling. They are unmatched in single combat with their huge array of single-target takedown moves.",
       "stats": [
@@ -36971,10 +36971,10 @@
       "name": "scrapper"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3499,
+      "removePrice": 499,
       "degree": 4,
       "description": "Astrologian, fortune-teller, seer. As an Oracle, Timmy is all of these things, and more. As a mage that draws their power from the stars themselves, they are slow, deliberate spellcasters, but they are able to affect targets from anywhere on the map with their array of supportive spells.",
       "stats": [
@@ -38083,10 +38083,10 @@
       "name": "mystic"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Spellbreaker, a fighter that excels at countering enemy attacks, and is adept at dealing with enemy fighters and mages.",
       "stats": [
@@ -38637,10 +38637,10 @@
       "name": "spellbreaker"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Duskbringer, a combatant that has mastered the dual destructive forces of light and darkness.",
       "stats": [
@@ -39187,10 +39187,10 @@
       "name": "duskbringer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a fighter with an incredible affinity for the element of lightning, despite not being a mage. They are capable of executing devastating attacks, but the physical toll of harnessing such power causes them to take more damage than others.",
       "stats": [
@@ -39743,10 +39743,10 @@
       "name": "thunderblessed"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a sharpshot mercenary for hire. It's not uncommon to find their ilk in dusty rimworld bars. Their ability to take out key targets from a distance is unparalleled, but life as a contract killer has left them less than willing to perform menial labor and daily tasks. They are capable of utilizing magic to make their bullets even more deadly, but they have no inherent mana regeneration of their own.",
       "stats": [
@@ -40297,10 +40297,10 @@
       "name": "deadeye"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Spellthief, a trickster mage capable of easily infiltrating and sabotaging enemies. They can copy abilities from allies and enemies.",
       "stats": [
@@ -40851,10 +40851,10 @@
       "name": "spellthief"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Dragoon, an agile knight that has absorbed the power of ancient dragons into their body, granting them extreme resistance towards heat. They are capable of taking to the skies to outmaneuever and destroy their opponents.",
       "stats": [
@@ -41405,10 +41405,10 @@
       "name": "dragoon"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Black Mage, a specialized combat mage capable of unleashing unending destructive magic on their foes.",
       "stats": [
@@ -41969,10 +41969,10 @@
       "name": "blackmage"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Scholar, a magical strategist capable of protecting their allies from harm. They are very poor direct combatants, but excel at supporting their allies in combat.",
       "stats": [
@@ -43079,10 +43079,10 @@
       "name": "gunbreaker"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Machinist, a specialist fighter that prefers ranged weapons with powerful single-shot capabilities. They are capable of charging up and laying down rapid bursts of suppressive fire.",
       "stats": [
@@ -43627,10 +43627,10 @@
       "name": "machinist"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Warrior, a melee fighter trained to survive on the front lines of battle.",
       "stats": [
@@ -44191,10 +44191,10 @@
       "name": "warrior"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Nomad, a resilient and versatile bow-fighter that fights at both melee and range.",
       "stats": [
@@ -44745,10 +44745,10 @@
       "name": "nomad"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Guardian, a stalwart protector that uses blade and magic to defend their allies.",
       "stats": [
@@ -45297,10 +45297,10 @@
       "name": "guardian"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Holosmith, an ordinary individual except for one thing -- their usage of the miraculous Photon Forge, which allows them to harness the power of light for brief periods of time, allowing them to keep up with other trained fighters.",
       "stats": [
@@ -45847,10 +45847,10 @@
       "name": "holosmith"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Troubadour, an archer who supports their allies with arrow and song.",
       "stats": [
@@ -46403,10 +46403,10 @@
       "name": "troubadour"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Gambler, a smooth-talking vagrant with a magical deck of cards. They play out their lives according to fate's whim.",
       "stats": [
@@ -46957,10 +46957,10 @@
       "name": "gambler"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Chef, a dedicated cook with abilities that can ease the burdens of their allies.",
       "stats": [
@@ -47509,10 +47509,10 @@
       "name": "chef"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Miner, a trained specialist capable of demolishing ore and rock with ease.",
       "stats": [
@@ -48065,10 +48065,10 @@
       "name": "miner"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Striker, an unarmed combatant that is an aggressive offshoot of the Monk -- they forsake defense and healing in exchange for a swift and offensive combat style.",
       "stats": [
@@ -48619,10 +48619,10 @@
       "name": "striker"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Rune Knight, a specialized combat mage that compresses mana into runes to use at a later time, allowing them to prepare for future encounters. They have access to offensive, defensive, and healing magic.",
       "stats": [
@@ -49169,10 +49169,10 @@
       "name": "runeknight"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Blossom Blader, a graceful bladedancer with close ties to nature. They are capable of rapidly assaulting their targets with debilitating attacks. Their abilities are fueled by herbs gathered over time by interacting with plants.",
       "stats": [
@@ -49727,10 +49727,10 @@
       "name": "blossomblader"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Ravenous. No one knows how these disturbing creatures come into existence - freak of nature, biological experimentation, or magical anomaly? The only thing anyone knows for sure is that these creatures must feed, on anything and everything. Despite not being properly trained, they are capable of learning fighter and mage abilities. Perhaps they devoured the knowledge from some unfortunate soul...",
       "stats": [
@@ -50273,10 +50273,10 @@
       "name": "ravenous"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Some do it for vengeance, others do it for pay. Whatever the reason, Timmy is a Mech Hunter, a fighter that has dedicated their life to eradicating the Mechanoid threat.",
       "stats": [
@@ -50821,10 +50821,10 @@
       "name": "mechhunter"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Gunslinger, a mobile ranged attacker capable of blanketing the battlefield with suppressive fire.",
       "stats": [
@@ -51371,10 +51371,10 @@
       "name": "gunslinger"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Shadowbringer, a melee fighter that utilizes the power of darkness to annihilate their foes.",
       "stats": [
@@ -51925,10 +51925,10 @@
       "name": "shadowbringer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is a Warden, an offshoot of the Geomancer that has received training as a battlemage and prefers to be in the thick of combat.",
       "stats": [
@@ -52477,10 +52477,10 @@
       "name": "warden"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "No one belongs to a Rimworld more than Timmy - no stranger to pollution, poison, drugs, or violence, they have augmented their body to allow them to process dangerous drugs in combat, allowing them to use their very body as a poisonous weapon.",
       "stats": [
@@ -53031,10 +53031,10 @@
       "name": "chempunk"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is an Explorer. Their travels through the land have granted them insight into numerous schools of both magic and might -- they are capable of learning abilities from almost any mage or fighter scroll. However, they possess no innate abilities of their own.",
       "stats": [
@@ -53583,10 +53583,10 @@
       "name": "explorer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 499,
       "degree": 4,
       "description": "Timmy is an Architect, a mage that applies their magic to structures, allowing them to raise or destroy buildings at a moment's whim. Architects rarely directly engage their foes, they prefer to shape the landscape itself to be inhospitable to their enemies. Most of their spells can be cast from anywhere on the map.",
       "stats": [
