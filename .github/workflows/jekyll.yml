@@ -23,5 +23,5 @@ jobs:
       - uses: jeffreytse/jekyll-deploy-action@v0.5.1
         with:
           provider: 'github'
-          token: ${{ secrets.DEPLOY_TOKEN }} # It's your Personal Access Token(PAT)
+          token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
           jekyll_baseurl: '/itemlist'         # Default is according to _config.yml
