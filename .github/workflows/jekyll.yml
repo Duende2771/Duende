@@ -25,3 +25,5 @@ jobs:
           provider: 'github'
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
           jekyll_baseurl: '/itemlist'         # Default is according to _config.yml
+          ruby-version: '3.2
+          
