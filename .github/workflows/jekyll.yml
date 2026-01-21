@@ -19,7 +19,7 @@ jobs:
       # Set up Ruby and enable bundler caching
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
+          ruby-version: '3.1'
           cache: bundler
 
       # Use GitHub Actions' cache to cache dependencies on servers (optional extra cache)
