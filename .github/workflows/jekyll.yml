@@ -9,6 +9,7 @@ on:
 permissions:
   contents: read
   pages: write
+  id-token: write
 
 jobs:
   build_and_deploy:
@@ -39,9 +40,10 @@ jobs:
       - name: Build site
         run: bundle exec jekyll build --destination _site
 
-      # Deploy to GitHub Pages
-      - uses: jeffreytse/jekyll-deploy-action@v0.5.1
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          provider: 'github'
-          token: ${{ secrets.GITHUB_TOKEN }}
-          jekyll_baseurl: '/itemlist'
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
